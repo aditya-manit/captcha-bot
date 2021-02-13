@@ -6,10 +6,6 @@ const fs = require('fs');
 
 
 
-
-
-// invite:  https://discord.com/api/oauth2/authorize?client_id=774699098112524351&permissions=8&scope=bot
-
 client.on('ready', () => {
     console.log("Bot Online")
 });
